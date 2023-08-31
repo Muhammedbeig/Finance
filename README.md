@@ -1,6 +1,5 @@
 # CS50 Finance Project Readme
 
-![CS50 Finance](screenshot.png)
 
 Welcome to the CS50 Finance project! This project is a part of the CS50 curriculum and is designed to help you understand the concepts of web development, databases, and financial interactions.
 
